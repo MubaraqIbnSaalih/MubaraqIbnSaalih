@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MubaraqIbnSaalih
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Fullstack Ruby on Rails
+- 🌱 I’m currently working on a project
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Whatsapp :+2349061130566
 - 😄 Pronouns: He/Him
